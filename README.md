@@ -119,9 +119,6 @@ NEERAJ_KUMAR = {
 "interests": ["Digital Art", "Studio Ghibli", "Advanced Mathematics"],
 "goal": "Building innovative solutions that bridge technology and creativity"
 }
-
-text
-
 ---
 
 ## 🌐 Let's Connect & Collaborate!
